@@ -7,7 +7,7 @@ My personnal component library for Eagle
 
 Listing:
 
-Antennes Rainsun GPS,GSM,BT // Rainsun antennas GPS,GSM,BT
+Antennes Rainsun GPS,GSM,BT // Rainsun antennas GPS,GSM,BT </br>
 Texas Instrument Cortex M4 Tiva C TM4C123 (=LM4F)
 OVC Audio Bluetooth module
 MCP46XX SPI potentiometer
